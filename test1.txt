@@ -4,7 +4,10 @@ its just for test purpose
 
 its for 2nd commit
 
+000
 
+--
+its 3rd commit
 
 //
 thank you
